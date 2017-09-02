@@ -10,7 +10,7 @@
     Base
 \* ------------------------------------------------------------ */
 
-body { background: #fff; font-family: 'Open Sans', sans-serif; font-size: 14px; line-height: 2; color: #585858; }
+body { min-width: 320px; background: #fff; font-family: 'Open Sans', sans-serif; font-size: 14px; line-height: 2; color: #585858; }
 
 a { color: #ffaf36; text-decoration: none; }
 a:hover { text-decoration: underline; }

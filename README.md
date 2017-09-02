@@ -1,2 +1,2 @@
-# https://pavletcheto95-businessplus.github.io
+# https://pavletcheto95-businessplus-about-us.github.io
 BussinessPlus

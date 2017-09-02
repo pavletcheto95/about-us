@@ -53,7 +53,7 @@ img { max-width: 100%; height: auto; vertical-align: middle; }
 .ico-smile,
 .ico-present,
 .ico-cup,
-.ico-rocket { display: inline-block; line-height: 0; vertical-align: middle; background: url(images/sprite.png) no-repeat; }
+.ico-rocket { display: inline-block; line-height: 0; vertical-align: middle; background: url(sprite.png) no-repeat; }
 
 .logo-image { width: 165px; height: 34px; background-position: -1px -1px; }
 
